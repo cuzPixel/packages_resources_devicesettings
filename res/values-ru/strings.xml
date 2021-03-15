@@ -126,15 +126,15 @@
     <string name="dirac_headset_title">Тип наушников</string>
     <string name="dirac_preset_title">Выберите настройку</string>
     <!-- Dirac settings: Hi-Fi -->
-    <string name="dirac_hifi_title">Звук Hi-Fi</string>
-    <string name="dirac_hifi_summary">Уменьшить шумы и искажения для улучшения качества звука</string>
+    <string name="dirac_hifi_title">Hi-Fi звук</string>
+    <string name="dirac_hifi_summary">Понизить шумы и искажения для улучшения качества звука</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">По умолчанию</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general">Обычные наушники</string>
-    <string name="dirac_headset_general_inear">Вакуумные</string>
+    <string name="dirac_headset_general_inear">Внутриканальные наушники</string>
     <string name="dirac_headset_piston_basic">Mi Piston Basic</string>
     <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Mi Piston Standard</string>
@@ -182,18 +182,18 @@
     <string name="popup_camera_calibrate_now">Калибровка</string>
     <string name="popup_camera_calibrate_failed">Не удалось откалибровать. Возможно, нужно отнести устройство в сервис для диагностики проблемы</string>
     <string name="popup_camera_calibrate_success">Успешная калибровка. Можете открыть переднюю камеру.</string>
-    <string name="stop_operate_camera_frequently">Слишком частые переключения между камерами.</string>
-    <string name="takeback_camera_front_failed">Не удалось закрыть переднюю камеру. Повторите попытку.</string>
-    <string name="popup_camera_front_failed">Не удалось открыть переднюю камеру. Повторите попытку.</string>
+    <string name="stop_operate_camera_frequently">Слишком частое использование камеры.</string>
+    <string name="takeback_camera_front_failed">Не удалось закрыть камеру. Повторите попытку.</string>
+    <string name="popup_camera_front_failed">Не удалось открыть камеру. Повторите попытку.</string>
     <string name="popup_camera_proximity_obstructed">Уберите руку с датчика приближения, чтобы открыть фронтальную камеру...</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Профиль оптимизации</string>
-    <string name="thermal_summary">Отрегулируйте профили для оптимальной производительности приложений</string>
+    <string name="thermal_summary">Используйте профили для оптимальной производительности приложений</string>
     <string name="thermal_default">Без оптимизации</string>
-    <string name="thermal_benchmark">Производительность</string>
+    <string name="thermal_benchmark">Высокая производительность</string>
     <string name="thermal_browser">Браузер</string>
     <string name="thermal_camera">Камера</string>
     <string name="thermal_dialer">Телефон</string>
-    <string name="thermal_gaming">Игры</string>
+    <string name="thermal_gaming">Игровой профиль</string>
     <string name="thermal_streaming">Потоковые приложения</string>
 </resources>

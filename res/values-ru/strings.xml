@@ -196,4 +196,7 @@
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игровой профиль</string>
     <string name="thermal_streaming">Потоковые приложения</string>
+
+    <string name="wake_on_gesture_title">Пробуждение жестами</string>
+    <string name="wake_on_gesture_summary">Пробуждение устройства вместо уведомлений при использовании жестов</string>
 </resources>
